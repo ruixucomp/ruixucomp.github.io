@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Xu"
+  name             : "Rui (Ray) Xu"
   avatar           : "ruixu_0922_meddpi.jpg"
   bio              : "Bridge first principles with continuum modeling"
   location         :
-  employer         :
+  employer         : "Stanford University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FtEGbaIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Rui-Xu-80"
+  email            : "ruixu@stanford.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rui-ray-xu/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "rui-ray-xu"
+  orcid            : "http://orcid.org/0000-0003-3264-9050"
   pinterest        :
   soundcloud       :
   stackoverflow    :
