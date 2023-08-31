@@ -35,7 +35,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     <a href="https://www.sciencedirect.com/science/article/pii/S0010218021004624" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2022_NGDetonation_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
-      <img src="/images/publications/2022_NGDetonation_CNF_TOC.png" alt="2022 CNF NG Detonation TOC" style="width:75%">
+      <img src="/images/publications/2022_NGDetonation_CNF_TOC.png" alt="2022 CNF NG Detonation TOC" style="width:65%">
     </figure>    
     </li> 
     <li>C. Wang, Y. Zhang, Y. Zhang, J. Luo, X. Hu, E. Matios, J. Crane, <strong><ins>R. Xu</ins></strong>, H. Wang*, W. Li*, “Stable sodium-sulfur electrochemistry enabled by phosphorus-based complexation,” <em>Proceedings of the National Academy of Sciences</em>, <strong>118</strong>, e2116184118, 2021.
@@ -49,7 +49,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     <a href="https://www.sciencedirect.com/science/article/pii/S0010218020304430" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2021_HyChem_Uncertainty_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
-      <img src="/images/publications/2021_HyChem_Uncertainty_CNF_TOC.png" alt="2021 CNF HyChem Uncertainty TOC" style="width:80%">
+      <img src="/images/publications/2021_HyChem_Uncertainty_CNF_TOC.png" alt="2021 CNF HyChem Uncertainty TOC" style="width:90%">
     </figure>    
     </li> 
 </ol>
