@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Xu, Ph.D."
+title                    : "Rui Xu's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Rui Xu"
 description              : &description "personal description"
