@@ -71,7 +71,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     <a href="https://www.sciencedirect.com/science/article/pii/S001021802030290X" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2020_HyChem_Gasoline_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
-      <img src="/images/publications/2020_HyChem_Gasoline_CNF_TOC.png" alt="2021 CNF HyChem Gasoline TOC" style="width:100%">
+      <img src="/images/publications/2020_HyChem_Gasoline_CNF_TOC.png" alt="2021 CNF HyChem Gasoline TOC" style="width:75%">
     </figure>    
     </li>
 </ol>
