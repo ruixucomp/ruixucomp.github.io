@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-You can also find my articles on my <a href="https://scholar.google.com/citations?user=FtEGbaIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
+* <a href="https://scholar.google.com/citations?user=FtEGbaIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>
+* Corresponding author = *
 
 <ol start="19" reversed="reversed">
     <!--19. 2023 NR ChemSci-->
@@ -35,7 +36,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     </figure> 
     </li>
     <!--16. 2022 NG Detonation CNF-->
-    <li>J. Crane, X. Shi*, <strong><ins>R. Xu</ins></strong>, H. Wang, “Natural gas versus methane: ignition kinetics and detonation limit behavior in small tubes,” <em>Combustion and Flame</em>, <strong>237</strong>, 111719, 2022.
+    <li>J. Crane, X. Shi*, <strong><ins>R. Xu</ins></strong>, H. Wang, Natural gas versus methane: ignition kinetics and detonation limit behavior in small tubes, <em>Combustion and Flame</em>, <strong>237</strong>, 111719, 2022.
     <a href="https://www.sciencedirect.com/science/article/pii/S0010218021004624" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2022_NGDetonation_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
@@ -43,7 +44,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     </figure>    
     </li> 
     <!--15. 2021 Battery PNAS-->
-    <li>C. Wang, Y. Zhang, Y. Zhang, J. Luo, X. Hu, E. Matios, J. Crane, <strong><ins>R. Xu</ins></strong>, H. Wang*, W. Li*, “Stable sodium-sulfur electrochemistry enabled by phosphorus-based complexation,” <em>Proceedings of the National Academy of Sciences</em>, <strong>118</strong>, e2116184118, 2021.
+    <li>C. Wang, Y. Zhang, Y. Zhang, J. Luo, X. Hu, E. Matios, J. Crane, <strong><ins>R. Xu</ins></strong>, H. Wang*, W. Li*, Stable sodium-sulfur electrochemistry enabled by phosphorus-based complexation, <em>Proceedings of the National Academy of Sciences</em>, <strong>118</strong>, e2116184118, 2021.
     <a href="https://www.pnas.org/doi/full/10.1073/pnas.2116184118" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2021_Battery_PNAS.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
@@ -51,7 +52,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     </figure>    
     </li>
     <!--14. 2021 HyChem7 Uncertainty CNF--> 
-    <li><strong><ins>R. Xu</ins></strong>*, H. Wang, “A physics-based approach to modeling real-fuel combustion chemistry – VII. Relationship between speciation measurement and reaction model accuracy,” <em>Combustion and Flame</em>, <strong>224</strong>, 126-135, 2021.
+    <li><strong><ins>R. Xu</ins></strong>*, H. Wang, A physics-based approach to modeling real-fuel combustion chemistry – VII. Relationship between speciation measurement and reaction model accuracy, <em>Combustion and Flame</em>, <strong>224</strong>, 126-135, 2021.
     <a href="https://www.sciencedirect.com/science/article/pii/S0010218020304430" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2021_HyChem_Uncertainty_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
@@ -59,7 +60,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     </figure>    
     </li>
     <!--13. 2021 Flow Reactor Vitiation CNF-->  
-    <li>K. Wang, <strong><ins>R. Xu</ins></strong>, C.T. Bowman*, H. Wang, “Impact of vitiation on flow reactor studies of jet fuel combustion chemistry,” <em>Combustion and Flame</em>, <strong>224</strong>, 66-72, 2021.
+    <li>K. Wang, <strong><ins>R. Xu</ins></strong>, C.T. Bowman*, H. Wang, Impact of vitiation on flow reactor studies of jet fuel combustion chemistry, <em>Combustion and Flame</em>, <strong>224</strong>, 66-72, 2021.
     <a href="https://www.sciencedirect.com/science/article/pii/S0010218020304648" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2021_FlowReactorVitiation_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
@@ -67,11 +68,35 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
     </figure>    
     </li> 
     <!--12. 2020 HyChem6 Gasoline CNF--> 
-    <li><strong><ins>R. Xu</ins></strong>, C. Saggese, R. Lawson, A. Movaghar, T. Parise, J. Shao, R. Choudhary, J. Park, T. Lu, R.K. Hanson, D.F. Davidson, F.N. Egolfopoulos, A. Aradi, A. Prakash, V.R.R. Mohan, R. Cranknell, H. Wang*, “A physics-based approach to modeling real-fuel combustion chemistry – VI. Predictive kinetic models of gasoline fuels,” <em>Combustion and Flame</em>, <strong>220</strong>, 475-487, 2020.
+    <li><strong><ins>R. Xu</ins></strong>, C. Saggese, R. Lawson, A. Movaghar, T. Parise, J. Shao, R. Choudhary, J. Park, T. Lu, R.K. Hanson, D.F. Davidson, F.N. Egolfopoulos, A. Aradi, A. Prakash, V.R.R. Mohan, R. Cranknell, H. Wang*, A physics-based approach to modeling real-fuel combustion chemistry – VI. Predictive kinetic models of gasoline fuels, <em>Combustion and Flame</em>, <strong>220</strong>, 475-487, 2020.
     <a href="https://www.sciencedirect.com/science/article/pii/S001021802030290X" target="_blank" rel="noopener noreferrer">[Link]</a>
     <a href="/files/2020_HyChem_Gasoline_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
     <figure>
-      <img src="/images/publications/2020_HyChem_Gasoline_CNF_TOC.png" alt="2021 CNF HyChem Gasoline TOC" style="width:75%">
+      <img src="/images/publications/2020_HyChem_Gasoline_CNF_TOC.png" alt="2020 CNF HyChem Gasoline TOC" style="width:75%">
+    </figure>    
+    </li>
+    <!--11. 2020 HyChem5 NOx CNF--> 
+    <li>C. Saggese, K. Wan, <strong><ins>R. Xu</ins></strong>, Y. Tao, C.T. Bowman, J. Park, T. Lu, H. Wang*, A physics-based approach to modeling real-fuel combustion chemistry – V. NO<sub><em>x</em></sub> formation from a typical Jet A, <em>Combustion and Flame</em>, <strong>212</strong>, 270-278, 2020.
+    <a href="https://www.sciencedirect.com/science/article/pii/S001021801930495X" target="_blank" rel="noopener noreferrer">[Link]</a>
+    <a href="/files/2020_HyChem_NOx_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+    <figure>
+      <img src="/images/publications/2020_HyChem_NOx_CNF_TOC.png" alt="2020 CNF HyChem NOx TOC" style="width:75%">
+    </figure>    
+    </li>
+    <!--10. 2019 Large Number PCI--> 
+    <li><strong><ins>R. Xu</ins></strong>*, H. Wang, Principle of large component number in multicomponent fuel combustion – a Monte Carlo study, <em>Proceedings of the Combustion Institute</em>, <strong>37</strong>, 613-620, 2019.
+    <a href="https://www.sciencedirect.com/science/article/pii/S1540748918303730" target="_blank" rel="noopener noreferrer">[Link]</a>
+    <a href="/files/2019_LargeNum_PCI.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+    <figure>
+      <img src="/images/publications/2019_LargeNum_PCI_TOC.png" alt="2019 PCI Large Number TOC" style="width:90%">
+    </figure>    
+    </li>
+    <!--9. 2019 UICST JetA PCI--> 
+    <li>X. Han, M. Liszka, <strong><ins>R. Xu</ins></strong>, K. Brezinsky, H. Wang*, A high pressure shock tube study of pyrolysis of real jet fuel Jet A, <em>Proceedings of the Combustion Institute</em>, <strong>37</strong>, 189-196, 2019.
+    <a href="https://www.sciencedirect.com/science/article/pii/S1540748918301421" target="_blank" rel="noopener noreferrer">[Link]</a>
+    <a href="/files/2019_UICST_JetA_PCI.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+    <figure>
+      <img src="/images/publications/2019_UICST_JetA_PCI_Fig3.jpg" alt="2019 PCI UICST JetA" style="width:60%">
     </figure>    
     </li>
 </ol>
