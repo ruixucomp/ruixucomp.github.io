@@ -29,4 +29,13 @@ redirect_from:
   <li>
     06/02/23: My paper <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">"First principles reaction discovery: From the Schrodinger equation to experimental prediction for methane pyrolysis"</a> has been accepted by <em>Chemical Science</em>.
   </li>
+  <li>
+    05/06/23: I attended <a href="https://chemistry.ucdavis.edu/wctc-2023">2023 West Coast Theoretical Chemistry (WCTC) meeting</a> and presented a poster. 
+  </li>
+  <li>
+    03/02/23: My recent work on combining <em>ab initio</em> reaction discovery with chemical kinetic modeling is now on <a href="https://doi.org/10.26434/chemrxiv-2023-51bqx">ChemRxiv</a>. 
+  </li>
+  <li>
+    02/10/23: My co-authored paper <a href="https://www.sciencedirect.com/science/article/pii/S0010218023000640" target="_blank" rel="noopener noreferrer">"Neural network approach to response surface development for reaction model optimization and uncertainty minimization"</a> has been accepted by <em>Combustion and Flame</em>.
+  </li>
 </ul>
