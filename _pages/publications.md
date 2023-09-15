@@ -9,6 +9,24 @@ author_profile: true
 * <a href="https://scholar.google.com/citations?user=FtEGbaIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>
 * Corresponding author = *
 
+## Manuscript Under Review
+<ul>
+  <li>
+    A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <strong>under review</strong>, 2023. 
+  </li>
+  <li>
+    <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <strong>under review</strong>, 2023. 
+  </li>
+  <li>
+    Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <strong>under review</strong>, 2023. 
+  </li>
+  <li>
+    Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <strong>under review</strong>, 2023. 
+  </li>
+</ul>
+
+
+## Journal Articles
 <ol start="19" reversed="reversed">
     <!--19. 2023 NR ChemSci-->
     <li>
@@ -150,6 +168,42 @@ author_profile: true
       </ul> 
       <figure>
         <img src="/images/publications/2018_HyChem_Theory_TOC.png" alt="2018 CNF HyChem Theory TOC" style="width:80%">
+      </figure>    
+    </li>
+    <!--4. 2017 LBO LES CNF--> 
+    <li>
+      L. Esclapez*, P. Ma, E. Mayhew, <strong><ins>R. Xu</ins></strong>, S. Stouffer, T. Lee, H. Wang, M. Ihme*, Fuel effects on lean blow-out in a realistic gas turbine combustor, <em>Combustion and Flame</em>, <strong>181</strong>, 82-99, 2017.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0010218017300822" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2017_LBO_LES_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <figure>
+        <img src="/images/publications/2017_LBO_LES_CNF_TOC.png" alt="2017 CNF LBO LES TOC" style="width:70%">
+      </figure>    
+    </li>
+    <!--3. 2017 Diffusion Coefficients PCI--> 
+    <li>
+      C. Liu, R. Zhao, <strong><ins>R. Xu</ins></strong>, F.N. Egolfopoulos, H. Wang*, Binary diffusion coefficients and non-premixed flames extinction of long-chain alkanes, <em>Proceedings of the Combustion Institute</em>, <strong>36</strong>, 1523-1530, 2017.
+      <a href="https://www.sciencedirect.com/science/article/pii/S1540748916302929" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2017_Diffusion_PCI.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <figure>
+        <img src="/images/publications/2017_Diffusion_PCI_TOC.png" alt="2017 PCI Diffusion Coefficients TOC" style="width:80%">
+      </figure>    
+    </li>
+    <!--2. 2015 MDSIF JMSE--> 
+    <li>
+      Z. Zhang, H. Ren, <strong><ins>R. Xu</ins></strong>, N. Moser, J. Smith, E. Ndip-Agbor, R. Malhotra, Z.C. Xia, K.F. Ehmann*, J. Cao*, A mixed double-sided incremental forming toolpath strategy for improved geometric accuracy, <em>Journal of Manufacturing Science and Engineering</em>, <strong>137</strong>, 051007, 2015.
+      <a href="https://asmedigitalcollection.asme.org/manufacturingscience/article/137/5/051007/377667/A-Mixed-Double-Sided-Incremental-Forming-Toolpath" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2015_MDSIF_JMSE.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <figure>
+        <img src="/images/publications/2015_MDSIF_JMSE_TOC.png" alt="2015 JMSE MDSIF TOC" style="width:80%">
+      </figure>    
+    </li>
+    <!--1. 2014 Fatigue MFL--> 
+    <li>
+      <strong><ins>R. Xu</ins></strong>, X. Shi, D. Xu, R. Malhotra, J. Cao*, A preliminary study on the fatigue behavior of sheet metal parts formed with accumulative-double-sided incremental forming, <em>Manufacturing Letters</em>, <strong>2</strong>, 8-11, 2014.
+      <a href="https://www.sciencedirect.com/science/article/pii/S2213846313000266" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2014_Fatigue_MFL.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <figure>
+        <img src="/images/publications/2014_Fatigue_MFL_TOC.png" alt="2014 MFL Fatigue TOC" style="width:80%">
       </figure>    
     </li>
 </ol>

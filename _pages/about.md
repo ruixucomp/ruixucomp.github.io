@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 **Welcome to my personal website!** 
-* I am a computational engineer. 
 * My research interest spans across the scales from molecular level first principles reaction discovery, to continuum scales chemical kinetic modeling, fluid mechanics, and materials study. 
 * My goal is to leverage multiscale computations for applications including sustainable biofuel combustion modeling and design, reacting flow physics, and novel energy harvesting materials study. 
 * My long term vision is to merge the borders of engineering disciplines with fundamental physical and chemical science. For more details please go to my research and publications pages.
