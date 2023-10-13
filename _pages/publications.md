@@ -50,7 +50,7 @@ author_profile: true
     </li>
     <!--17. 2022 PAH-Metal CNF-->
     <li>
-      N. Kateris, <strong><ins>R. Xu</ins></strong>, H. Wang*, HOMO-LUMO energy gaps of complexes of transition metals with single and multi-ring aromatics, <em>Combustion and Flame</em>, 112679, 2022.
+      N. Kateris, <strong><ins>R. Xu</ins></strong>, H. Wang*, HOMO-LUMO energy gaps of complexes of transition metals with single and multi-ring aromatics, <em>Combustion and Flame</em>, <strong>257</strong>, 112513, 2023.
       <a href="https://www.sciencedirect.com/science/article/pii/S0010218022005223" target="_blank" rel="noopener noreferrer">[Link]</a>
       <a href="/files/2022_PAHMetal_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <figure>
