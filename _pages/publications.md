@@ -27,7 +27,10 @@ author_profile: true
 <ol start="20" reversed="reversed">
     <!--20. 2023 NR Phenyl ChemSci-->
     <li>
-      A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <strong>accepted</strong>, 2023. 
+      A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <em>The Journal of Physical Chemistry A</em>, <strong>accepted</strong>, 2023. 
+      <figure>
+        <img src="/images/publications/2023_NR_Phenyl_JPCA_TOC.png" alt="2023 JPCA Phenyl TOC" style="width:65%">
+      </figure>
     </li> 
     <!--19. 2023 NR Methane ChemSci-->
     <li>
@@ -36,7 +39,7 @@ author_profile: true
       <a href="/files/2023_NR_ChemSci.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> 
       <a href="https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc90130k" target="_blank" rel="noopener noreferrer">[Featured in <em>Chem. Sci.</em> front cover]</a> 
       <figure>
-        <img src="/images/publications/2023_NR_ChemSci_CoverTOC.png" alt="2023 Chem. Sci. Cover and TOC" style="width:75%">
+        <img src="/images/publications/2023_NR_ChemSci_CoverTOC.png" alt="2023 Chem. Sci. Cover and TOC" style="width:85%">
       </figure>
     </li> 
     <!--18. 2023 NNRS CNF-->

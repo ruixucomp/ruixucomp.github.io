@@ -21,6 +21,9 @@ redirect_from:
 ### News
 <ul>
   <li>
+    10/03/23: My co-authored paper "Efficient Acceleration of Reaction Discovery in the <em>ab initio</em> Nanoreactor: Phenyl Radical Oxidation Chemistry" has been accepted by <em>The Journal of Physical Chemistry A</em>.
+  </li>
+  <li>
     08/17/23: I presented at <a href="https://www.acs.org/meetings/acs-meetings/fall-2023.html">ACS Fall 2023</a>, COMP Quantum Mechanics Session.
   </li>
   <li>
