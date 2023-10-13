@@ -14,7 +14,7 @@ redirect_from:
     I am currently a postdoctoral scholar in Department of Chemistry at Stanford University, under the supervision of <a href="https://mtzweb.stanford.edu/" target="_blank" rel="noopener noreferrer">Todd Martínez</a>. I obtained my Ph.D. in Mechanical Engineering at Stanford University with <a href="https://nanoenergy.stanford.edu/" target="_blank" rel="noopener noreferrer">Hai Wang</a>. 
   </li>
   <li>
-    My research interest spans across the scales from molecular level first principles reaction discovery, to continuum scales chemical kinetic modeling, fluid mechanics, and materials study. My goal is to leverage multiscale computations for applications including sustainable biofuel combustion modeling and design, reacting flow physics, and novel energy harvesting materials study. My long term vision is to merge the borders of engineering disciplines with fundamental physical and chemical science. 
+    My research aims to establish a new understanding on high-speed reacting flow physics, through designing multiscale approaches combining ab initio molecular modeling, chemical kinetics, and turbulent flow simulations. This multiscale platform will tackle three critical problems in high-speed reacting flows, including nonequilibrium physics, sustainable aviation fuels, and plasma chemistry. My long term vision is to merge the borders of engineering disciplines with fundamental physical and chemical science. 
   </li>
 </ul>
 

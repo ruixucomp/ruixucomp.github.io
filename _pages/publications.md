@@ -12,9 +12,6 @@ author_profile: true
 ## Manuscript Under Review
 <ul>
   <li>
-    A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <strong>under review</strong>, 2023. 
-  </li>
-  <li>
     <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <strong>under review</strong>, 2023. 
   </li>
   <li>
@@ -27,8 +24,12 @@ author_profile: true
 
 
 ## Journal Articles
-<ol start="19" reversed="reversed">
-    <!--19. 2023 NR ChemSci-->
+<ol start="20" reversed="reversed">
+    <!--20. 2023 NR Phenyl ChemSci-->
+    <li>
+      A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <strong>accepted</strong>, 2023. 
+    </li> 
+    <!--19. 2023 NR Methane ChemSci-->
     <li>
       <strong><ins>R. Xu</ins></strong>, J. Meisner, A.M. Chang, K.C. Thompson, T.J. Martínez*, First principles reaction discovery: From the Schrodinger equation to experimental prediction for methane pyrolysis, <em>Chemical Science</em>, <strong>14</strong>, 7447-7464, 2023. 
       <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">[Link]</a>
