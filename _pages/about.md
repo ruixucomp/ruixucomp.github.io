@@ -21,10 +21,19 @@ redirect_from:
 ### News
 <ul>
   <li>
+    11/03/23: I am invited to present in the Physical Chemistry Seminar at Rutgers University. 
+  </li>
+  <li>
+    10/21/23: My co-authored paper "Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion" has been accepted by <em>Combustion and Flame</em>.
+  </li>
+  <li>
+    10/18/23: I presented at <a href="http://cara.berkeley.edu/">BASF California Research Alliance (CARA)</a> Fall Review Meeting in Santa Barbara.
+  </li>
+  <li>
     10/03/23: My co-authored paper "Efficient Acceleration of Reaction Discovery in the <em>ab initio</em> Nanoreactor: Phenyl Radical Oxidation Chemistry" has been accepted by <em>The Journal of Physical Chemistry A</em>.
   </li>
   <li>
-    08/17/23: I presented at <a href="https://www.acs.org/meetings/acs-meetings/fall-2023.html">ACS Fall 2023</a>, COMP Quantum Mechanics Session.
+    08/17/23: I presented at <a href="https://www.acs.org/meetings/acs-meetings/fall-2023.html">ACS Fall 2023</a> (COMP Quantum Mechanics Session) in San Francisco. 
   </li>
   <li>
     07/14/23: My paper <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">"First principles reaction discovery: From the Schrodinger equation to experimental prediction for methane pyrolysis"</a> has been featured in <em>Chem. Sci. </em> <a href="https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc90130k" target="_blank" rel="noopener noreferrer">front cover</a>, ChemSciHOT collections (<a href="https://twitter.com/ChemicalScience/status/1679777765082697728" target="_blank" rel="noopener noreferrer">media</a>), and ChemSciPick of the week (<a href="https://twitter.com/ChemicalScience/status/1673979551288893440" target="_blank" rel="noopener noreferrer">media</a>).

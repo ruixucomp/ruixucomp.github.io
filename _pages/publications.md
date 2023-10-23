@@ -17,19 +17,23 @@ author_profile: true
   <li>
     Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <strong>under review</strong>, 2023. 
   </li>
-  <li>
-    Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <strong>under review</strong>, 2023. 
-  </li>
 </ul>
 
 
 ## Journal Articles
-<ol start="20" reversed="reversed">
-    <!--20. 2023 NR Phenyl ChemSci-->
+<ol start="21" reversed="reversed">
+    <!--21. 2023 NR Phenyl ChemSci-->
     <li>
       A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <em>The Journal of Physical Chemistry A</em>, <strong>accepted</strong>, 2023. 
       <figure>
         <img src="/images/publications/2023_NR_Phenyl_JPCA_TOC.png" alt="2023 JPCA Phenyl TOC" style="width:65%">
+      </figure>
+    </li> 
+    <!--20. 2023 FFCM-ATJ CNF-->
+    <li>
+      Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2023. 
+      <figure>
+        <img src="/images/publications/2023_FFCM_ATJ_CNF_TOC.png" alt="2023 CNF FFCM ATJ TOC" style="width:85%">
       </figure>
     </li> 
     <!--19. 2023 NR Methane ChemSci-->
