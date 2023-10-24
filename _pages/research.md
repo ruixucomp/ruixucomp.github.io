@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Vision
 
 <div class="row">
@@ -58,8 +52,16 @@ author_profile: true
 </div>
 
 ## Research directions
-<p>Click on each link below for research directions.</p>
-<a href="../_pages/research_saf.md" target="_blank" rel="noopener noreferrer">Sustainable aviation fuel modeling</a> 
+<p>Click on each link below for each research directions.</p>
+<a href="/research/research_hychem/" target="_blank" rel="noopener noreferrer">Liquid fuel combustion chemistry modeling</a> <br>
+<a href="/research/research_reactingflow/" target="_blank" rel="noopener noreferrer">Reacting flow simulation</a> <br>
+<a href="/research/research_abinitio/" target="_blank" rel="noopener noreferrer">Quantum chemistry molecular modeling</a> <br>
+<a href="/research/research_saf/" target="_blank" rel="noopener noreferrer">Sustainable aviation fuel modeling</a> <br>
 
+<!---
+{% include base_path %}
 
-
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+--->
