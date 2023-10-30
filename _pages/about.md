@@ -24,6 +24,9 @@ redirect_from:
     11/03/23: I am invited to present in the Physical Chemistry Seminar at Rutgers University. 
   </li>
   <li>
+    10/27/23: I received the Wiley Outstanding Postdoc Award from ACS COMP Division today! <a href="https://twitter.com/ACSCOMP/status/1718002229162963261">Twitter annoucement from ACS here.</a> 
+  </li>
+  <li>
     10/21/23: My co-authored paper "Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion" has been accepted by <em>Combustion and Flame</em>.
   </li>
   <li>
