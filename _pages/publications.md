@@ -22,20 +22,22 @@ author_profile: true
 
 ## Journal Articles
 <ol start="21" reversed="reversed">
-    <!--21. 2023 NR Phenyl ChemSci-->
+    <!--21. 2023 FFCM-ATJ CNF-->
+    <li>
+      Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <em>Combustion and Flame</em>, <strong>259</strong>, 113168, 2024.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0010218023005436" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2023_FFCM2_ATJ_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>  
+      <figure>
+        <img src="/images/publications/2023_FFCM_ATJ_CNF_TOC.png" alt="2023 CNF FFCM ATJ TOC" style="width:85%">
+      </figure>
+    </li> 
+    <!--20. 2023 NR Phenyl ChemSci-->
     <li>
       A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <em>The Journal of Physical Chemistry A</em>, <strong>in press</strong>, 2023.
       <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.3c05484" target="_blank" rel="noopener noreferrer">[Link]</a>
       <a href="/files/2023_NR_JPCA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>  
       <figure>
         <img src="/images/publications/2023_NR_Phenyl_JPCA_TOC.png" alt="2023 JPCA Phenyl TOC" style="width:65%">
-      </figure>
-    </li> 
-    <!--20. 2023 FFCM-ATJ CNF-->
-    <li>
-      Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2023. 
-      <figure>
-        <img src="/images/publications/2023_FFCM_ATJ_CNF_TOC.png" alt="2023 CNF FFCM ATJ TOC" style="width:85%">
       </figure>
     </li> 
     <!--19. 2023 NR Methane ChemSci-->

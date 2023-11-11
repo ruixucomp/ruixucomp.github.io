@@ -27,7 +27,7 @@ redirect_from:
     10/27/23: I received the Wiley Outstanding Postdoc Award from ACS COMP Division today! <a href="https://twitter.com/ACSCOMP/status/1718002229162963261" target="_blank" rel="noopener noreferrer">Twitter annoucement from ACS here.</a> 
   </li>
   <li>
-    10/21/23: My co-authored paper "Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion" has been accepted by <em>Combustion and Flame</em>.
+    10/21/23: My co-authored paper <a href="https://www.sciencedirect.com/science/article/pii/S0010218023005436" target="_blank" rel="noopener noreferrer">"Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion"</a> has been accepted by <em>Combustion and Flame</em>.
   </li>
   <li>
     10/18/23: I presented in BASF <a href="http://cara.berkeley.edu/cara-2023-fall-review-ucsb/" target="_blank" rel="noopener noreferrer">CARA Fall Review Meeting</a> at UCSB.
