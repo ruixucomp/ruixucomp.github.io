@@ -53,10 +53,10 @@ author_profile: true
 
 ## Research directions
 <p>Click on each link below for each research directions.</p>
-<a href="/research/research_hychem/" target="_blank" rel="noopener noreferrer">Liquid fuel combustion chemistry modeling</a> <br>
-<a href="/research/research_reactingflow/" target="_blank" rel="noopener noreferrer">Reacting flow simulation</a> <br>
+<a href="/research/research_hychem/" target="_blank" rel="noopener noreferrer">Liquid fuel combustion chemistry</a> <br>
+<a href="/research/research_reactingflow/" target="_blank" rel="noopener noreferrer">Reacting flows</a> <br>
 <a href="/research/research_abinitio/" target="_blank" rel="noopener noreferrer">Quantum chemistry molecular modeling</a> <br>
-<a href="/research/research_saf/" target="_blank" rel="noopener noreferrer">Sustainable aviation fuel modeling</a> <br>
+<a href="/research/research_saf/" target="_blank" rel="noopener noreferrer">Sustainable aviation fuels</a> <br>
 
 <!---
 {% include base_path %}
