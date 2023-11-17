@@ -33,7 +33,7 @@ author_profile: true
     </li> 
     <!--20. 2023 NR Phenyl ChemSci-->
     <li>
-      A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <em>The Journal of Physical Chemistry A</em>, <strong>in press</strong>, 2023.
+      A.M. Chang, J. Meisner, <strong><ins>R. Xu</ins></strong>, T.J. Martínez*, Efficient acceleration of reaction discovery in the <em>ab initio</em> nanoreactor: Phenyl radical oxidation chemistry, <em>The Journal of Physical Chemistry A</em>, <strong>127</strong>, 9580-9589, 2023.
       <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.3c05484" target="_blank" rel="noopener noreferrer">[Link]</a>
       <a href="/files/2023_NR_JPCA.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>  
       <figure>
