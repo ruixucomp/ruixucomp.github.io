@@ -11,10 +11,10 @@ redirect_from:
 **Welcome to my personal website!** 
 <ul>
   <li>
-    I am currently a postdoctoral scholar in Department of Chemistry at Stanford University, under the supervision of <a href="https://mtzweb.stanford.edu/" target="_blank" rel="noopener noreferrer">Todd Martínez</a>. I obtained my Ph.D. in Mechanical Engineering at Stanford University with <a href="https://nanoenergy.stanford.edu/" target="_blank" rel="noopener noreferrer">Hai Wang</a>. 
+    I am currently a postdoctoral scholar in Department of Chemistry at Stanford University, under the supervision of <a href="https://mtzweb.stanford.edu/" target="_blank" rel="noopener noreferrer">Todd Martínez</a>. I obtained my Ph.D. in Mechanical Engineering at Stanford University with <a href="https://nanoenergy.stanford.edu/" target="_blank" rel="noopener noreferrer">Hai Wang</a>. Before that, I earned my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University.
   </li>
   <li>
-    My research aims to develop new fundamentals and computational approaches to high-speed reacting flows and their applications for a sustainable aerospace future. I build multiscale simulation platforms integrating <em>ab initio</em> molecular modeling, chemical kinetic modeling, and turbulence-resolved flow simulations with the aid of data-driven methods. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>.--> 
+    My research centers around multiscale reacting flow modeling to enable sustainable aerospace propulsion. I specialize in the development of modeling methodologies unique to reacting flow physics, such as chemical kinetics, molecular interactions, thermal nonequilibrium, and turbulent flows. To accomplish this, I integrate techniques such as high-performance <em>ab initio</em> molecular modeling, chemical kinetic modeling, and turbulence-resolved flow simulations, with the aid of data-driven methods. I am particularly interested in understainding sustainable aviation fuel combustion and its synthetic pathways, along with the underlying reacting flow physics in both current aerospace propulsion devices and future carbon-neutral, high-speed vehicles. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>.--> 
   </li>
 </ul>
 
