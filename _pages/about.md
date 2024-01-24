@@ -13,13 +13,22 @@ redirect_from:
   <li>
     I am currently a postdoctoral scholar in Department of Chemistry at Stanford University, under the supervision of <a href="https://mtzweb.stanford.edu/" target="_blank" rel="noopener noreferrer">Todd Martínez</a>. I obtained my Ph.D. in Mechanical Engineering at Stanford University with <a href="https://nanoenergy.stanford.edu/" target="_blank" rel="noopener noreferrer">Hai Wang</a>. Before that, I earned my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University.
   </li>
+  <figure>
+        <img src="/images/About.png" alt="About: research vision" style="width:100%">
+  </figure>
   <li>
-    My research centers around multiscale reacting flow modeling to enable sustainable aerospace propulsion. I specialize in the development of modeling methodologies unique to reacting flow physics, such as chemical kinetics, molecular interactions, thermal nonequilibrium, and turbulent flows. To accomplish this, I integrate techniques such as high-performance <em>ab initio</em> molecular modeling, chemical kinetic modeling, and turbulence-resolved flow simulations, with the aid of data-driven methods. I am particularly interested in understainding sustainable aviation fuel combustion and its synthetic pathways, along with the underlying reacting flow physics in both current aerospace propulsion devices and future carbon-neutral, high-speed vehicles. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>.--> 
+    My research mission is to develop next-generation <strong>sustainable and efficient aerospace propulsion devices</strong>. My goal is to tackle two challenges in the aerospace frontier: <strong><font color="blue">aerospace sustainability</font></strong> and <strong><font color="#EE7D31">high-speed aerospace vehicle design</font></strong>. I am particularly interested in understainding <strong><font color="blue">sustainable aviation biofuel</font></strong> and <strong><font color="blue">hydrogen</font></strong> combustion and its synthetic production pathways, along with the underlying reacting flow physics in both current aerospace propulsion devices and <strong><font color="#EE7D31">future carbon-neutral, high-speed vehicles</font></strong>. 
+  </li>
+  <li>
+    My research approach centers around <strong>multiscale reacting flow modeling</strong>. I specialize in the development of modeling methodologies unique to reacting flow physics, such as chemical kinetics, molecular interactions, thermal nonequilibrium, and turbulent flows. To accomplish this, I integrate techniques such as GPU-accelerated quantum chemistry molecular modeling, chemical kinetic modeling, and turbulence-resolved flow simulations, with the aid of data-driven methods. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>. -->
   </li>
 </ul>
 
 ### News
 <ul>
+  <li>
+    01/08/24: I attended <a href="https://www.aiaa.org/SciTech" target="_blank" rel="noopener noreferrer">AIAA SciTech</a> in Orlando.   
+  </li>
   <li>
     11/03/23: I was invited and presented in the <a href="https://twitter.com/RutgersChem/status/1719714060609183832" target="_blank" rel="noopener noreferrer">Physical Chemistry Seminar</a> at Rutgers University. 
   </li>
