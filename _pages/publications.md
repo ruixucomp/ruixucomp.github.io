@@ -9,19 +9,27 @@ author_profile: true
 * <a href="https://scholar.google.com/citations?user=FtEGbaIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>
 * Corresponding author = *
 
-## Manuscript Under Review
+## Manuscript Under Review or In Preparation
 <ul>
   <li>
-    <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <strong>under review</strong>, 2023. 
+    <strong><ins>R. Xu</ins></strong>, A.M. Chang, E. Pieri, T.J. Martínez*, From chemical reaction discovery to kinetic modeling: The <em>ab initio</em> nanoreactor, in preparation. 
   </li>
   <li>
-    Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <strong>under review</strong>, 2023. 
+    D.C. Lee, <strong><ins>R. Xu</ins></strong>, E.J. Flear, S. Holm, D. Hait, T.J. Martínez*, Y. Xia*, Hijacking mechanochemical intermediates for force-free reactions, in preparation. 
   </li>
 </ul>
 
 
 ## Journal Articles
-<ol start="21" reversed="reversed">
+<ol start="23" reversed="reversed">
+    <!--23. 2024 ODT-DNS-FFCMy-2 CNF-->
+    <li>
+      <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2024. 
+    </li>
+    <!--22. 2024 ODT-DNS-FFCMy-1 CNF-->
+    <li>
+      Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2024. 
+    </li>
     <!--21. 2023 FFCM-ATJ CNF-->
     <li>
       Y. Zhang, W. Dong, <strong><ins>R. Xu</ins></strong>, H. Wang*, Foundational Fuel Chemistry Model 2 – <em>iso</em>-Butene chemistry and application in modeling alcohol-to-jet fuel combustion, <em>Combustion and Flame</em>, <strong>259</strong>, 113168, 2024.

@@ -27,6 +27,12 @@ redirect_from:
 ### News
 <ul>
   <li>
+    03/19/24: I will be presenting at at <a href="https://www.acs.org/meetings/acs-meetings/spring.html" target="_blank" rel="noopener noreferrer">ACS Spring 2024</a> in New Orleans, LA, as the winner of the <a href="https://www.acscomp.org/awards/the-comp-acs-outstanding-postdoc-award" target="_blank" rel="noopener noreferrer">Wiley Computers in Chemistry Outstanding Postdoc Award</a>.
+  </li>
+  <li>
+    02/20/24: Our recent two-paper series work on high-speed methane-air reacting flow modeling, is accepted by <em>Combustion and Flame</em> today. Title: "Modeling high-speed, methane-air, turbulent combustion" with Part I (co-author): "One-dimensional turbulence modeling with comparison to DNS", and Part II (first and corresponding author): "Reduced methane oxidation chemistry". See the <a href="/publications/" target="_blank" rel="noopener noreferrer">Publication page</a> for updates and details.
+  </li>
+  <li>
     01/08/24: I attended <a href="https://www.aiaa.org/SciTech" target="_blank" rel="noopener noreferrer">AIAA SciTech</a> in Orlando.   
   </li>
   <li>
