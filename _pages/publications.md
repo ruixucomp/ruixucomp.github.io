@@ -24,11 +24,21 @@ author_profile: true
 <ol start="23" reversed="reversed">
     <!--23. 2024 ODT-DNS-FFCMy-2 CNF-->
     <li>
-      <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2024. 
+      <strong><ins>R. Xu</ins></strong>*, S.S. Dammati, X. Shi, E.S. Genter, Z. Jozefik, M.E. Harvazinski, T. Lu, A.Y. Poludnenko, V. Sankaran, A.R. Kerstein, H. Wang*, Modeling of high-speed, methane-air, turbulent combustion – Part II. Reduced methane oxidation chemistry, <em>Combustion and Flame</em>, <strong>263</strong>, 113380, 2024.
+      <a href="https://www.sciencedirect.com/science/article/pii/S0010218024000890" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2024_HighSpeed2_FFCMy_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>  
+      <figure>
+        <img src="/images/publications/2024_HighSpeed2_FFCMy_CNF_TOC.png" alt="2024 CNF High-speed2 FFCMy" style="width:90%">
+      </figure> 
     </li>
     <!--22. 2024 ODT-DNS-FFCMy-1 CNF-->
     <li>
-      Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <em>Combustion and Flame</em>, <strong>accepted</strong>, 2024. 
+      Z. Jozefik, M.E. Harvazinski*, V. Sankaran, S.S. Dammati, A.Y. Poludnenko, T. Lu, A.R. Kerstein, <strong><ins>R. Xu</ins></strong>, H. Wang, Modeling of high-speed, methane-air, turbulent combustion – Part I. One-dimensional turbulence modeling with comparison to DNS, <em>Combustion and Flame</em>, <strong>263</strong>, 113379, 2024. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S0010218024000889" target="_blank" rel="noopener noreferrer">[Link]</a>
+      <a href="/files/2024_HighSpeed1_ODT_CNF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>  
+      <figure>
+        <img src="/images/publications/2024_HighSpeed1_ODT_CNF_TOC.png" alt="2024 CNF High-speed1 ODT" style="width:90%">
+      </figure>
     </li>
     <!--21. 2023 FFCM-ATJ CNF-->
     <li>
