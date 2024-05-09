@@ -27,7 +27,13 @@ redirect_from:
 ### News
 <ul>
   <li>
-    03/19/24: I will be presenting at at <a href="https://www.acs.org/meetings/acs-meetings/spring.html" target="_blank" rel="noopener noreferrer">ACS Spring 2024</a> in New Orleans, LA, as the winner of the <a href="https://www.acscomp.org/awards/the-comp-acs-outstanding-postdoc-award" target="_blank" rel="noopener noreferrer">Wiley Computers in Chemistry Outstanding Postdoc Award</a>.
+    05/05/24: I attended <a href="https://chemistry.ucmerced.edu/wctc-2024" target="_blank" rel="noopener noreferrer">2024 West Coast Theoretical Chemistry (WCTC) meeting</a> at UC Merced and presented a poster. 
+  </li>
+  <li>
+    04/22/24: I attended the <a href="https://cara.berkeley.edu/cara-10th-anniversary-symposium-2024-spring-review/" target="_blank" rel="noopener noreferrer">BASF CARA 10th Anniversary Science Symposium and Spring Review</a> at UC Berkeley and presented a lightning talk. 
+  </li>
+  <li>
+    03/19/24: I presented at at <a href="https://www.acs.org/meetings/acs-meetings/spring.html" target="_blank" rel="noopener noreferrer">ACS Spring 2024</a> in New Orleans, LA, as the winner of the <a href="https://www.acscomp.org/awards/the-comp-acs-outstanding-postdoc-award" target="_blank" rel="noopener noreferrer">Wiley Computers in Chemistry Outstanding Postdoc Award</a>.
   </li>
   <li>
     02/20/24: Our recent two-paper series work on high-speed methane-air reacting flow modeling, is accepted by <em>Combustion and Flame</em> today. Title: "Modeling high-speed, methane-air, turbulent combustion" with Part I (co-author): "One-dimensional turbulence modeling with comparison to DNS", and Part II (first and corresponding author): "Reduced methane oxidation chemistry". See the <a href="/publications/" target="_blank" rel="noopener noreferrer">Publication page</a> for updates and details.
@@ -60,7 +66,7 @@ redirect_from:
     06/02/23: My paper <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">"First principles reaction discovery: From the Schrodinger equation to experimental prediction for methane pyrolysis"</a> has been accepted by <em>Chemical Science</em>.
   </li>
   <li>
-    05/06/23: I attended <a href="https://chemistry.ucdavis.edu/wctc-2023" target="_blank" rel="noopener noreferrer">2023 West Coast Theoretical Chemistry (WCTC) meeting</a> and presented a poster. 
+    05/06/23: I attended <a href="https://chemistry.ucdavis.edu/wctc-2023" target="_blank" rel="noopener noreferrer">2023 West Coast Theoretical Chemistry (WCTC) meeting</a> at UC Davis and presented a poster. 
   </li>
   <li>
     03/02/23: My recent work on combining <em>ab initio</em> reaction discovery with chemical kinetic modeling is now on <a href="https://doi.org/10.26434/chemrxiv-2023-51bqx" target="_blank" rel="noopener noreferrer">ChemRxiv</a>. 
