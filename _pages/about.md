@@ -23,7 +23,7 @@ redirect_from:
     My research approach centers around <strong>multiscale reacting flow modeling</strong>. I specialize in the development of modeling methodologies unique to reacting flow physics, ranging from small-scale molecular interactions, to thermal nonequilibrium, chemical kinetics and to continuum scale turbulent flows. To accomplish this, I integrate techniques such as <strong><font color="#1E90FF">GPU-accelerated quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetic modeling</font></strong>, and <strong><font color="#1E90FF">turbulence-resolved flow simulations</font></strong>, with the aid of <strong><font color="green">data-driven methods</font></strong>. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>. -->
   </li>
   <li>
-    I obtained my Ph.D. in Mechanical Engineering at Stanford University, my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University. See <a href="/files/Xu_CV_PersonalPage_0524.pdf" target="_blank" rel="noopener noreferrer">CV</a> for details.
+    I obtained my Ph.D. in Mechanical Engineering at Stanford University, my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University. See <a href="/files/Xu_CV_PersonalPage_0624.pdf" target="_blank" rel="noopener noreferrer">CV</a> for details.
   </li>
 </ul>
 
