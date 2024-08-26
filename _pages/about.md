@@ -31,6 +31,9 @@ redirect_from:
 Visit <a href="/news/" target="_blank" rel="noopener noreferrer">complete news archive here</a>
 <ul>
   <li>
+    08/02/24: I attended <a href="https://sites.google.com/view/efccm/home" target="_blank" rel="noopener noreferrer">Emerging Frontiers in Computational Chemistry and Materials: A Symposium in Celebration of Emily Carter's Achievements</a> in Pacific Grove, CA. 
+  </li>
+  <li>
     05/20/24: I accepted an offer to join the faculty of University of Southern California (USC), as an Assistant Professor in <a href="https://ame.usc.edu/" target="_blank" rel="noopener noreferrer">the Department of Aerospace and Mechanical Engineering</a> in <a href="https://viterbischool.usc.edu/" target="_blank" rel="noopener noreferrer">the Viterbi School of Engineering</a>. 
   </li>
   <li>
@@ -44,8 +47,5 @@ Visit <a href="/news/" target="_blank" rel="noopener noreferrer">complete news a
   </li>
   <li>
     02/20/24: Our recent two-paper series work on high-speed methane-air reacting flow modeling, is accepted by <em>Combustion and Flame</em> today. Title: "Modeling high-speed, methane-air, turbulent combustion" with Part I (co-author): "One-dimensional turbulence modeling with comparison to DNS", and Part II (first and corresponding author): "Reduced methane oxidation chemistry". See the <a href="/publications/" target="_blank" rel="noopener noreferrer">Publication page</a> for updates and details.
-  </li>
-  <li>
-    01/08/24: I attended <a href="https://www.aiaa.org/SciTech" target="_blank" rel="noopener noreferrer">AIAA SciTech</a> in Orlando.   
   </li>
 </ul>
