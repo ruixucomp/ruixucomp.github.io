@@ -11,20 +11,29 @@ redirect_from:
 **Welcome to my personal website!** 
 <ul>
   <li>
-    <font color="#1E90FF">I will be joining the faculty at <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs starting in Fall 2024.</font>
+    <font color="#1E90FF">I will be joining the faculty at <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs starting in Fall 2024 and Spring 2025. Perspective candidates may email me with your vision, interests, and experience, along with a CV. </font> 
   </li>
   <figure>
         <img src="/images/About.png" alt="About: research vision" style="width:100%">
   </figure>
   <li>
-    I am currently a postdoctoral scholar in the Department of Chemistry at Stanford University. My research mission is to develop next-generation <strong>sustainable and efficient aerospace propulsion devices</strong>. My goal is to tackle two challenges in the aerospace frontier: <strong><font color="blue">aerospace sustainability</font></strong> and <strong><font color="#EE7D31">high-speed aerospace vehicle design</font></strong>. I am particularly interested in understainding <strong><font color="blue">sustainable aviation fuel</font></strong> and <strong><font color="blue">hydrogen</font></strong> combustion and its synthetic production pathways, along with the underlying reacting flow physics in both current aerospace propulsion devices and <strong><font color="#EE7D31">future carbon-neutral, high-speed vehicles</font></strong>.
+    My research mission is to develop next-generation <strong>sustainable and efficient aerospace propulsion devices</strong>. My goal is to tackle two challenges in the aerospace frontier: <strong><font color="blue">aerospace sustainability</font></strong> and <strong><font color="#EE7D31">high-speed aerospace vehicle design</font></strong>. I am particularly interested in understainding <strong><font color="blue">sustainable aviation fuel</font></strong> and <strong><font color="blue">hydrogen</font></strong> combustion and its synthetic production pathways, along with the underlying reacting flow physics in both current aerospace propulsion devices and <strong><font color="#EE7D31">future carbon-neutral, high-speed vehicles</font></strong>.
   </li>
   <li>
-    My research approach centers around <strong>multiscale reacting flow modeling</strong>. I specialize in the development of modeling methodologies unique to reacting flow physics, ranging from small-scale molecular interactions, to thermal nonequilibrium, chemical kinetics and to continuum scale turbulent flows. To accomplish this, I integrate techniques such as <strong><font color="#1E90FF">GPU-accelerated quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetic modeling</font></strong>, and <strong><font color="#1E90FF">turbulence-resolved flow simulations</font></strong>, with the aid of <strong><font color="green">data-driven methods</font></strong>. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>. -->
+    My research approach centers around <strong>multiscale reacting flow modeling</strong>. I specialize in the development of modeling methodologies unique to reacting flow physics, ranging from small-scale molecular interactions, to thermal nonequilibrium, chemical kinetics and to continuum scale turbulent flows. To accomplish this, I integrate techniques such as <strong><font color="#1E90FF">GPU-accelerated quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetic modeling</font></strong>, and <strong><font color="#1E90FF">turbulence-resolved flow simulations</font></strong>, with the aid of <strong><font color="green">machine learning and data-driven methods</font></strong>. <!--For details, please visit my <a href="/research/" target="_blank" rel="noopener noreferrer">research page</a>. -->
   </li>
-  <li>
-    I obtained my Ph.D. in Mechanical Engineering at Stanford University, my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University. See <a href="/files/Xu_CV_PersonalPage_0624.pdf" target="_blank" rel="noopener noreferrer">CV</a> for details.
+  <!--<li>
+    Before joining USC, I was a postdoctoral scholar in the Department of Chemistry at Stanford University and in the PULSE Institute at SLAC National Laboratory. I obtained my Ph.D. in Mechanical Engineering at Stanford University, my M.S. in Mechanical Engineering at Northwestern University, and my B.S. in Mechanical Engineering at Shanghai Jiao Tong University. See <a href="/files/Xu_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a> for details.
   </li>
+  -->
+</ul>
+
+### Professional Education
+<ul>
+  <li>Postdoc, Stanford University and SLAC National Laboratory, Theoretical Chemistry (2024)</li>
+  <li>Ph.D., Stanford University, Mechanical Engineering (2019)</li>
+  <li>M.S., Northwestern University, Mechanical Engineering (2014)</li>
+  <li>B.S., Shanghai Jiao Tong University, Mechanical Engineering (2012)</li>
 </ul>
 
 ### Recent News
