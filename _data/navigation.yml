@@ -7,6 +7,9 @@ main:
     #url: /cv/
     url: /files/Xu_CV.pdf
       
+  - title: "Research"
+    url: /research/ 
+
   - title: "Publications"
     url: /publications/
 
@@ -16,8 +19,7 @@ main:
   - title: "News"
     url: /news/   
      
-  #- title: "Research"
-  #  url: /research/  
+ 
 
   #- title: "Teaching"
   #  url: /teaching/    
