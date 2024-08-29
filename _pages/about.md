@@ -11,7 +11,7 @@ redirect_from:
 **Welcome to my personal website!** 
 <ul>
   <li>
-    <font color="#1E90FF">I will be joining the faculty at <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs starting in Fall 2024 and Spring 2025. Perspective candidates may email me with your vision, interests, and experience, along with a CV. </font> 
+    <font color="#1E90FF">I will be joining the faculty at <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs starting in Fall 2024 and Spring 2025. Perspective candidates may email me (rui.ray.xu@usc.edu) with your vision, interests, and experience, along with a CV. </font> 
   </li>
   <figure>
         <img src="/images/About.png" alt="About: research vision" style="width:100%">
