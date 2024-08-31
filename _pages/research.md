@@ -8,25 +8,31 @@ author_profile: true
 ## Research Vision
 <ul>
   <li>
-    While the global demand for air travel continues to rise, the aerospace carbon footprint is increasingly concerning. In the near term, sustainable and carbon-neutral fuels are in high demand to mitigate greenhouse gas emissions. Furthermore, the ideal future aerospace vehicle will be integrated with highly efficient and high-power propulsion devices using clean and renewable energy sources. The design of these propulsion systems requires a fundamental understanding of high-speed flows across multiple scales, featuring interactions between the molecular scale.
+    While the global demand for air travel continues to rise, the aerospace carbon footprint is increasingly concerning. In the near term, <strong><font color="blue">sustainable and carbon-neutral fuels</font></strong> are in high demand to mitigate greenhouse gas emissions. Furthermore, the ideal future aerospace vehicle will be integrated with <strong><font color="#EE7D31">highly efficient and high-speed propulsion devices</font></strong> using clean and renewable energy sources. The design of these propulsion systems requires a fundamental understanding of high-speed flows across multiple scales, featuring interactions between the <strong>molecular scale</strong> and the <strong>flow scale</strong>.
+  </li>
+  <li>
+    My research goal is to enable <strong><font color="blue">aerospace sustainability</font></strong> and <strong><font color="#EE7D31">high-speed aerospace vehicle design</font></strong> through <strong>multiscale reacting flow modeling</strong>. I am particularly interested in understanding <strong><font color="blue">sustainable aviation fuel</font></strong> and <strong><font color="blue">hydrogen</font></strong> combustion and synthetic pathways, and the underlying low- and high-speed reacting flow physics in both current aerospace propulsion devices and <strong><font color="#EE7D31">future carbon-neutral, high-speed vehicles</font></strong>. 
   </li>
   <figure>
         <img src="/images/Research_vision.png" alt="About: research vision" style="width:100%">
   </figure>
-  <li>
-    My research goal is to enable aerospace sustainability and high-speed aerospace vehicle design through multiscale reacting flow modeling. I am particularly interested in understanding sustainable aviation fuel and hydrogen combustion, and the underlying low- and high-speed reacting flow physics in both current aerospace propulsion devices and future carbon-neutral, high-speed vehicles. Short-term, specific research tasks include:
-  </li>
-  <ol start="1">
-    <li>Sustainable aviation fuel modeling and development</li>
-    <li>Nonequilibrium aerothermochemistry and kinetics modeling in high-speed flows</li>
-    <li>Energy materials modeling and design</li>
-  </ol>    
 </ul>
+
+## Research Directions
+<ul>
+  <li>Click on each project to view the details.</li>  
+  <ol start="1">
+    <li><strong><font color="blue">Sustainable aviation fuel modeling and development</font></strong></li>
+    <li><strong><font color="#EE7D31">Nonequilibrium aerothermochemistry and kinetics modeling in high-speed flows</font></strong></li>
+    <li><strong>Quantum chemistry guided sustainable materials design</strong></li>
+  </ol>
+</ul>    
+
 
 ## Research Approach
 <ul>
   <li>
-    I work in the interdisciplinary area bridging quantum chemistry, chemical kinetics, fluid mechanics and gas dynamics, with the aid of machine learning and data-driven methods. I develop multiscale computational approach for reacting flows across different time and length scales, featuring interactions between the molecular scale (e.g., fast chemistry and thermal nonequilibrium) and the flow scale (e.g., shock, boundary layer, and turbulent flow).
+    I work in the interdisciplinary area bridging <strong><font color="#1E90FF">GPU-based quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetics</font></strong>, <strong><font color="#1E90FF">fluid mechanics</font></strong> and <strong><font color="#1E90FF">gas dynamics</font></strong>, with the aid of <strong><font color="green">machine learning and data-driven methods</font></strong>. I develop multiscale computational approach for reacting flows across different time and length scales, featuring interactions between the <strong>microscopic, molecular scale</strong> (e.g., fast chemistry and thermal nonequilibrium) and the <strong>macroscopic, flow scale</strong> (e.g., shock, boundary layer, and turbulent flow).
   </li>
   <figure>
         <img src="/images/Research_approach.png" alt="About: research vision" style="width:90%">

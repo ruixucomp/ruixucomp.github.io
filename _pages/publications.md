@@ -12,7 +12,7 @@ author_profile: true
 ## Manuscript Under Review or In Preparation
 <ul>
   <li>
-    Y. Liu, <strong><ins>R. Xu</ins></strong>, D.M. Sanchez, T.J. Martínez, T.J.A. Wolf, Ultrafast events in electrocyclic ring-opening reactions, in preparation. 
+    Y. Liu, <strong><ins>R. Xu</ins></strong>, D.M. Sanchez, T.J. Martínez*, T.J.A. Wolf*, Ultrafast events in electrocyclic ring-opening reactions, under review. 
   </li>
   <li>
     <strong><ins>R. Xu</ins></strong>, A.M. Chang, E. Pieri, T.J. Martínez*, From chemical reaction discovery to kinetic modeling: The <em>ab initio</em> nanoreactor, in preparation. 
