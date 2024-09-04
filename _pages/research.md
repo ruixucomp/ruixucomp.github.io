@@ -20,43 +20,27 @@ author_profile: true
 
 ## 2. Research Directions
 <figure><img src="/images/Research_vision.png" alt="Research directions" style="width:100%"></figure>
-<table style="border-collapse: collapse; width: 100%; border-style: hidden;">
-  <tr style="border-style: hidden;"> 
-    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
-      <font size="4" color="blue"><strong>Specific interests:</strong></font><br> 
-      <font size="3">
-      <ul>
-        <li>Sustainable aviation fuels (SAF) emission and combustion</li>
-        <li>SAF chemical design and synthetis</li>
-        <li>Other sustainable energy carriers (e.g., hydrogen)</li>
-        <li>Avaition environmental impacts</li>
-      </ul>
-      </font>
-    </td>
-    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
-      <font size="4" color="#EE7D31"><strong>Specific interests:</strong></font><br> 
-      <font size="3">
-      <ul>
-        <li>Nonequilibrium aerothermochemistry</li>
-        <li>Ultrafast chemistry and kinetics in high-speed reacting flows</li>
-        <li>Shock-chemistry interactions</li>
-        <li>Turbulence-chemistry interactions</li>
-      </ul>
-      </font>
-    </td>
-    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
-      <font size="4" color="green"><strong>Specific interests:</strong></font><br> 
-      <font size="3">
-      <ul>
-        <li>Multiscale materials chemistry-mechanics interactions</li>
-        <li>Light-harvesting, photomechanical materials</li>
-        <li>Stress-responsive materials</li>
-        <li>Battery materials</li>
-      </ul> 
-      </font>
-    </td>
-  </tr>
-</table>
+<font size="4"><strong>Specific interests:</strong></font>
+<ul>
+  <font color="blue"><strong>Aerospace sustainability:</strong></font><br>
+  <ul>
+    <li>Sustainable aviation fuels (SAF) combustion and emission</li>
+    <li>SAF chemical design and synthetis</li>
+    <li>Other sustainable energy carriers (e.g., hydrogen, ammonia)</li>
+    <li>Avaition environmental impacts</li>
+  </ul>
+  <font color="#EE7D31"><strong>High-speed reacting flow:</strong></font><br>
+  <ul>
+    <li>Nonequilibrium aerothermochemistry</li>
+    <li>Ultrafast chemistry and kinetics in high-speed reacting flows</li>
+    <li>Shock-chemistry-turbulence interactions</li>
+  </ul>
+  <font color="green"><strong>Sustainable energy materials</strong></font><br>
+  <ul>
+    <li>Multiscale materials chemistry-mechanics interactions</li>
+    <li>Light-harvesting, stress-responsive, and battery materials</li>
+  </ul>  
+</ul>
 
 ## 3. Research Approach
 <ul>
