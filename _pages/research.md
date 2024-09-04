@@ -19,6 +19,60 @@ author_profile: true
 </ul>
 
 ## 2. Research Directions
+<figure><img src="/images/Research_vision.png" alt="Research directions" style="width:100%"></figure>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;">
+  <tr style="border-style: hidden;"> 
+    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
+      <font size="4" color="blue"><strong>Specific interests:</strong></font><br> 
+      <font size="3">
+      <ul>
+        <li>Sustainable aviation fuels (SAF) emission and combustion</li>
+        <li>SAF chemical design and synthetis</li>
+        <li>Other sustainable energy carriers (e.g., hydrogen)</li>
+        <li>Avaition environmental impacts</li>
+      </ul>
+      </font>
+    </td>
+    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
+      <font size="4" color="#EE7D31"><strong>Specific interests:</strong></font><br> 
+      <font size="3">
+      <ul>
+        <li>Nonequilibrium aerothermochemistry</li>
+        <li>Ultrafast chemistry and kinetics in high-speed reacting flows</li>
+        <li>Shock-chemistry interactions</li>
+        <li>Turbulence-chemistry interactions</li>
+      </ul>
+      </font>
+    </td>
+    <td style="border-style: hidden; text-align: left; vertical-align: top; width: 33%;">
+      <font size="4" color="green"><strong>Specific interests:</strong></font><br> 
+      <font size="3">
+      <ul>
+        <li>Multiscale materials chemistry-mechanics interactions</li>
+        <li>Light-harvesting, photomechanical materials</li>
+        <li>Stress-responsive materials</li>
+        <li>Battery materials</li>
+      </ul> 
+      </font>
+    </td>
+  </tr>
+</table>
+
+## 3. Research Approach
+<ul>
+  <li>
+    I work in the interdisciplinary area bridging <strong><font color="#1E90FF">GPU-based quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetics</font></strong>, <strong><font color="#1E90FF">fluid mechanics</font></strong> and <strong><font color="#1E90FF">gas dynamics</font></strong>, with the aid of <strong><font color="maroon">machine learning and data-driven methods</font></strong>. I develop multiscale computational approach for reacting flows across different time and length scales, featuring interactions between the <strong>microscopic, molecular scale</strong> (e.g., fast chemistry and thermal nonequilibrium) and the <strong>macroscopic, flow scale</strong> (e.g., shock, boundary layer, and turbulent flow).
+  </li>
+  <figure>
+        <img src="/images/Research_approach.png" alt="About: research vision" style="width:90%">
+  </figure>
+  <li>
+    An example on applying fast quantum chemistry modeling for reacting flow simulation is highlighted in one of my past work (     R. Xu, et al., <em>Chem. Sci.</em>, <strong>14</strong>, 7447-7464, 2023. <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">[Link]</a>)
+  </li>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/R56pW1i-rj4?si=pbnVhGS9KzuU7BXN&amp;start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</ul>
+
+<!---
 <table style="border-collapse: collapse; width: 100%; border-style: hidden;">
   <tr style="border-style: hidden;"> 
     <td style="border-style: hidden; text-align: center; width: 33%;">
@@ -67,20 +121,8 @@ author_profile: true
     </td>
   </tr>
 </table>
+--->
 
-## 3. Research Approach
-<ul>
-  <li>
-    I work in the interdisciplinary area bridging <strong><font color="#1E90FF">GPU-based quantum chemistry</font></strong>, <strong><font color="#1E90FF">chemical kinetics</font></strong>, <strong><font color="#1E90FF">fluid mechanics</font></strong> and <strong><font color="#1E90FF">gas dynamics</font></strong>, with the aid of <strong><font color="maroon">machine learning and data-driven methods</font></strong>. I develop multiscale computational approach for reacting flows across different time and length scales, featuring interactions between the <strong>microscopic, molecular scale</strong> (e.g., fast chemistry and thermal nonequilibrium) and the <strong>macroscopic, flow scale</strong> (e.g., shock, boundary layer, and turbulent flow).
-  </li>
-  <figure>
-        <img src="/images/Research_approach.png" alt="About: research vision" style="width:90%">
-  </figure>
-  <li>
-    An example on applying fast quantum chemistry modeling for reacting flow simulation is highlighted in one of my past work (     R. Xu, et al., <em>Chem. Sci.</em>, <strong>14</strong>, 7447-7464, 2023. <a href="https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC01202F" target="_blank" rel="noopener noreferrer">[Link]</a>)
-  </li>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/R56pW1i-rj4?si=pbnVhGS9KzuU7BXN&amp;start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</ul>
 
 <!---
 <table style="border-collapse: collapse; width: 100%; border-style: hidden;">
