@@ -6,6 +6,10 @@ main:
   - title: "CV"
     #url: /cv/
     url: /files/Xu_CV.pdf
+  
+  - title: "Group"
+    #url: /cv/
+    url: https://www.xu-group-usc.com/
       
   - title: "Research"
     url: /research/ 

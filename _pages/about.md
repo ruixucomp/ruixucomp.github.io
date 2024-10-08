@@ -11,7 +11,10 @@ redirect_from:
 **Welcome to my personal website!** 
 <ul>
   <li>
-    <font color="#1E90FF">I will be joining the faculty at <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs starting in Fall 2024 and Spring 2025. Perspective candidates may email me (rui.ray.xu@usc.edu) with your vision, interests, and experience, along with a CV. </font> 
+    <font color="#1E90FF">I will be joining the faculty at the <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs for Spring and Fall 2025. Prospective candidates may email me (rui.ray.xu@usc.edu) with your CV and research interests. </font> 
+  </li>
+  <li>
+    My USC research group webpage is live now! Check here: <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">Xu SACE Research Group at USC</a>.
   </li>
   <figure>
         <img src="/images/USC_gate_cropped.jpg" alt="About: USC" style="width:100%">
@@ -40,6 +43,9 @@ redirect_from:
 Visit <a href="/news/" target="_blank" rel="noopener noreferrer">complete news archive here</a>
 <ul>
   <li>
+    09/11/24: I attended <a href="https://saf.bbiconferences.com/ema/DisplayPage.aspx?pageId=Home" target="_blank" rel="noopener noreferrer">North American Sustainable Aviation Fuel (SAF) Conference and Expo</a> in Saint Paul, MN.
+  </li>
+  <li>
     08/02/24: I attended <a href="https://sites.google.com/view/efccm/home" target="_blank" rel="noopener noreferrer">Emerging Frontiers in Computational Chemistry and Materials: A Symposium in Celebration of Emily Carter's Achievements</a> in Pacific Grove, CA. 
   </li>
   <li>
@@ -53,8 +59,5 @@ Visit <a href="/news/" target="_blank" rel="noopener noreferrer">complete news a
   </li>
   <li>
     03/19/24: I presented at at <a href="https://www.acs.org/meetings/acs-meetings/spring.html" target="_blank" rel="noopener noreferrer">ACS Spring 2024</a> in New Orleans, LA, as the winner of the <a href="https://www.acscomp.org/awards/the-comp-acs-outstanding-postdoc-award" target="_blank" rel="noopener noreferrer">Wiley Computers in Chemistry Outstanding Postdoc Award</a>.
-  </li>
-  <li>
-    02/20/24: Our recent two-paper series work on high-speed methane-air reacting flow modeling, is accepted by <em>Combustion and Flame</em> today. Title: "Modeling high-speed, methane-air, turbulent combustion" with Part I (co-author): "One-dimensional turbulence modeling with comparison to DNS", and Part II (first and corresponding author): "Reduced methane oxidation chemistry". See the <a href="/publications/" target="_blank" rel="noopener noreferrer">Publication page</a> for updates and details.
   </li>
 </ul>
