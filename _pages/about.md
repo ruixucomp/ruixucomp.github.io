@@ -14,7 +14,7 @@ redirect_from:
     <font color="#1E90FF">I will be joining the faculty at the <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs for Spring and Fall 2025. Prospective candidates may email me (rui.ray.xu@usc.edu) with your CV and research interests. </font> 
   </li>
   <li>
-    My USC research group webpage is live now! Check here: <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">Xu SACE Research Group at USC</a>.
+    My USC research group webpage is live now! Check here: <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">Xu SACE (Sustainable Aerospace and Clean Energy) Research Group at USC</a>.
   </li>
   <figure>
         <img src="/images/USC_gate_cropped.jpg" alt="About: USC" style="width:100%">
