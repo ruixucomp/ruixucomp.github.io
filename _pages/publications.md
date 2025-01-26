@@ -9,6 +9,7 @@ author_profile: true
 * <a href="https://scholar.google.com/citations?user=FtEGbaIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>
 * Corresponding author = *
 
+<!---
 ## Manuscript Under Review or In Preparation
 <ul>
   <li>
@@ -18,6 +19,7 @@ author_profile: true
     D.C. Lee, <strong><ins>R. Xu</ins></strong>, E.J. Flear, S. Holm, D. Hait, T.J. Martínez*, Y. Xia*, Hijacking mechanochemical intermediates for force-free reactions, in preparation. 
   </li>
 </ul>
+--->
 
 
 ## Journal Articles
