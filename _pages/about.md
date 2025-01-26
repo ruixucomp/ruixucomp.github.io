@@ -11,10 +11,7 @@ redirect_from:
 **Welcome to my personal website!** 
 <ul>
   <li>
-    <font color="#1E90FF">I will be joining the faculty at the <strong>University of Southern California (USC)</strong>, as an <strong>Assistant Professor of Aerospace and Mechanical Engineering</strong>, starting in January 2025. I will be recruiting graduate students and postdocs for Spring and Fall 2025. Prospective candidates may email me (rui.ray.xu@usc.edu) with your CV and research interests. </font> 
-  </li>
-  <li>
-    My USC research group webpage is live now! Check here: <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">Xu SACE (Sustainable Aerospace and Clean Energy) Research Group at USC</a>.
+    I am an Assistant Professor of Aerospace and Mechanical Engineering at the University of Southern California (USC), starting in January 2025. <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">My research group</a> is recruiting graduate students and postdocs for Fall 2025. Prospective candidates may email me (rui.ray.xu@usc.edu) with your CV and research interests.
   </li>
   <figure>
         <img src="/images/USC_gate_cropped.jpg" alt="About: USC" style="width:100%">
@@ -43,21 +40,15 @@ redirect_from:
 Visit <a href="/news/" target="_blank" rel="noopener noreferrer">complete news archive here</a>
 <ul>
   <li>
+    01/06/25: I attended <a href="https://www.aiaa.org/SciTech" target="_blank" rel="noopener noreferrer">AIAA SciTech</a> in Orlando, FL.
+  </li>
+  <li>
+    01/01/25: I joined USC as an Assistant Professor in Aerospace and Mechanical Engineering. The <a href="https://www.xu-group-usc.com/" target="_blank" rel="noopener noreferrer">Xu SACE Research Group</a> is launched! 
+  </li>
+  <li>
     09/11/24: I attended <a href="https://saf.bbiconferences.com/ema/DisplayPage.aspx?pageId=Home" target="_blank" rel="noopener noreferrer">North American Sustainable Aviation Fuel (SAF) Conference and Expo</a> in Saint Paul, MN.
   </li>
   <li>
     08/02/24: I attended <a href="https://sites.google.com/view/efccm/home" target="_blank" rel="noopener noreferrer">Emerging Frontiers in Computational Chemistry and Materials: A Symposium in Celebration of Emily Carter's Achievements</a> in Pacific Grove, CA. 
-  </li>
-  <li>
-    05/20/24: I accepted an offer to join the faculty of University of Southern California (USC), as an Assistant Professor in <a href="https://ame.usc.edu/" target="_blank" rel="noopener noreferrer">the Department of Aerospace and Mechanical Engineering</a> in <a href="https://viterbischool.usc.edu/" target="_blank" rel="noopener noreferrer">the Viterbi School of Engineering</a>. 
-  </li>
-  <li>
-    05/05/24: I attended <a href="https://chemistry.ucmerced.edu/wctc-2024" target="_blank" rel="noopener noreferrer">2024 West Coast Theoretical Chemistry (WCTC) meeting</a> at UC Merced and presented a poster. 
-  </li>
-  <li>
-    04/22/24: I attended the <a href="https://cara.berkeley.edu/cara-10th-anniversary-symposium-2024-spring-review/" target="_blank" rel="noopener noreferrer">BASF CARA 10th Anniversary Science Symposium and Spring Review</a> at UC Berkeley and presented a lightning talk. 
-  </li>
-  <li>
-    03/19/24: I presented at at <a href="https://www.acs.org/meetings/acs-meetings/spring.html" target="_blank" rel="noopener noreferrer">ACS Spring 2024</a> in New Orleans, LA, as the winner of the <a href="https://www.acscomp.org/awards/the-comp-acs-outstanding-postdoc-award" target="_blank" rel="noopener noreferrer">Wiley Computers in Chemistry Outstanding Postdoc Award</a>.
   </li>
 </ul>
