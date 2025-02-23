@@ -26,8 +26,8 @@ author_profile: true
 <ol start="24" reversed="reversed">
   <!--24. 2025 Electrocyclic ARPC-->
   <li>
-    Y. Liu, <strong><ins>R. Xu</ins></strong>, D.M. Sanchez, T.J. Martínez*, T.J.A. Wolf*, Ultrafast events in electrocyclic ring-opening reactions, <em>Annual Review of Physical Chemistry</em>, accepted, 2025.
-    <a href="https://doi.org/10.26434/chemrxiv-2024-jw2x3" target="_blank" rel="noopener noreferrer">[ChemRxiv Link]</a>
+    Y. Liu, <strong><ins>R. Xu</ins></strong>, D.M. Sanchez, T.J. Martínez*, T.J.A. Wolf*, Ultrafast events in electrocyclic ring-opening reactions, <em>Annual Review of Physical Chemistry</em>, 76, 2025.
+    <a href="https://doi.org/10.1146/annurev-physchem-082423-023323" target="_blank" rel="noopener noreferrer">[Link]</a><a href="https://doi.org/10.26434/chemrxiv-2024-jw2x3" target="_blank" rel="noopener noreferrer">[ChemRxiv]</a>
     <figure>
       <img src="/images/publications/2025_Electrocyclic_ARPC_TOC.png" alt="2025 ARPC Electrocyclic" style="width:70%">
     </figure>  
